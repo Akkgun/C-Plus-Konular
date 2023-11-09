@@ -1,4 +1,5 @@
 # C++ Tüm Konular
 
-C++ öğrenirken paylaştığım depo
+Youtube'dan C++ öğrenirken paylaştığım depom.
 
+Daha Güncelleme gelmeyecek.
